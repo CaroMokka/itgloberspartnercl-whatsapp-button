@@ -1,12 +1,12 @@
 # Custom Whatsapp Button
-## Info General
+## :purple_heart:Info General
 Este repositorio contiene el componente personalizado *Whatsapp Button* e implementado con **React** y **Typescript** para **Vtex IO**. Su función principal es permitir conectar con el cliente a través de datos introducidos como un nombre, número telefónico y mensaje.
 ### Imagen Principal
 
 
 ![image](https://user-images.githubusercontent.com/87923794/193936554-f7170f63-848a-4fd7-9568-50566e526278.png)
 
-## Configuración
+## :wrench:Configuración
 ### Paso 1 - Clonación del repositorio
 Primero se debe crear un nuevo repositorio que contiene el [Template-React](https://github.com/vtex-apps/react-app-template)
 
@@ -90,10 +90,10 @@ Dentro de folder React se deberá crear un archivo `name-componente.tsx` ya que 
 
 Siguiendo con el proceso, el comando `vtex link` nos permitirá vincular nuestros archivos locales con la plataforma `vtex`.
 
-**NOTA**: Es recomendable siempre vincular primero tu app custom antes que tu tienda base.
+:pushpin:**NOTA**: Es recomendable siempre vincular primero tu app custom antes que tu tienda base.
 
 Si el proceso se ejecuta sin ningún error, se mostrará el siguiente mensaje: Aplicación vinculada con éxito. 
 Esto le permitirá ver los cambios aplicados en tiempo real, a través de la cuenta y el espacio de trabajo.
 
-## Colaboradores
+## :space_invader:Colaboradores
 - Carolina Araya González
